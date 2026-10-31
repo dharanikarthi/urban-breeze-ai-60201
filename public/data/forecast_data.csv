@@ -1,0 +1,31 @@
+date,aqi,condition,temperature,humidity
+Day 1,85,Moderate,32,65
+Day 2,78,Moderate,30,70
+Day 3,92,Unhealthy for Sensitive,34,60
+Day 4,88,Moderate,31,68
+Day 5,75,Moderate,29,72
+Day 6,82,Moderate,33,63
+Day 7,89,Moderate,35,58
+Day 8,76,Moderate,28,75
+Day 9,94,Unhealthy for Sensitive,36,55
+Day 10,81,Moderate,30,69
+Day 11,87,Moderate,32,66
+Day 12,73,Moderate,27,78
+Day 13,96,Unhealthy for Sensitive,37,52
+Day 14,84,Moderate,31,67
+Day 15,79,Moderate,29,73
+Day 16,91,Moderate,34,61
+Day 17,77,Moderate,28,76
+Day 18,93,Unhealthy for Sensitive,36,56
+Day 19,86,Moderate,32,64
+Day 20,80,Moderate,30,71
+Day 21,88,Moderate,33,62
+Day 22,74,Moderate,27,77
+Day 23,95,Unhealthy for Sensitive,37,53
+Day 24,83,Moderate,31,68
+Day 25,78,Moderate,29,74
+Day 26,90,Moderate,34,59
+Day 27,76,Moderate,28,75
+Day 28,92,Unhealthy for Sensitive,35,57
+Day 29,85,Moderate,32,65
+Day 30,81,Moderate,30,70
