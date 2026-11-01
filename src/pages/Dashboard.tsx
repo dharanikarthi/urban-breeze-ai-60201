@@ -6,6 +6,7 @@ import IoTSensorPanel from "@/components/dashboard/IoTSensorPanel";
 import AQIGuideSection from "@/components/dashboard/AQIGuideSection";
 import ForecastSection from "@/components/dashboard/ForecastSection";
 import RecommendationsSection from "@/components/dashboard/RecommendationsSection";
+import InteractiveMap from "@/components/dashboard/InteractiveMap";
 import HardwareStatusBanner from "@/components/HardwareStatusBanner";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Card, CardContent } from "@/components/ui/card";
@@ -212,8 +213,9 @@ const Dashboard = () => {
                 <TabsTrigger value="guide"    className="text-xs sm:text-sm">ℹ️ AQI Guide</TabsTrigger>
               </TabsList>
 
-              <TabsContent value="realtime" className="mt-6">
+              <TabsContent value="realtime" className="mt-6 space-y-6">
                 <IoTSensorPanel />
+                <InteractiveMap />
               </TabsContent>
 
               <TabsContent value="history" className="mt-6">
